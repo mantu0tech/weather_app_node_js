@@ -8,7 +8,8 @@
 /* BODY */
 body {
     font-family: 'Segoe UI', Tahoma, sans-serif;
-    background: linear-gradient(180deg, #eef2ff, #f9fafb);
+    background: red;
+    /* background: linear-gradient(180deg, #eef2ff, #f9fafb); */
     color: #1f2937;
     max-width: 960px;
     margin: 0 auto;
