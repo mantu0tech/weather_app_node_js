@@ -126,7 +126,7 @@
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js -e js,hbs",
-    "build": "esbuild src/app.js --bundle --platform=node --target=node18 --outfile=dist/app.js"
+    "build": "npx esbuild src/app.js --bundle --platform=node --target=node18 --outfile=dist/app.js"
   },
   "keywords": [],
   "author": "",
